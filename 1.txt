@@ -1,0 +1,9 @@
+run_
+nodemon api.js
+
+
+publicar al github
+git add .
+git commit -m "CR Node Sql Server "
+git remote add origin https://carlosdarioio/appletenhtml-node-sql
+git push origin master
